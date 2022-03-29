@@ -26,4 +26,6 @@ Components:
   - Jumpers.
   - capacitor 1 UF.
  
+ The circuit scheme:
+ ![image](https://user-images.githubusercontent.com/58488520/160713903-48d7aebf-15aa-4cce-9c2b-6d95362fbddf.png)
 
